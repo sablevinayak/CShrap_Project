@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2012\Projects\Zee\Zee\bin\Debug\Zee.exe.config
+c:\users\hp\documents\visual studio 2012\Projects\Zee\Zee\bin\Debug\Zee.exe
+c:\users\hp\documents\visual studio 2012\Projects\Zee\Zee\bin\Debug\Zee.pdb
+c:\users\hp\documents\visual studio 2012\Projects\Zee\Zee\obj\Debug\Zee.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2012\Projects\Zee\Zee\obj\Debug\Zee.Form1.resources
+c:\users\hp\documents\visual studio 2012\Projects\Zee\Zee\obj\Debug\Zee.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2012\Projects\Zee\Zee\obj\Debug\Zee.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2012\Projects\Zee\Zee\obj\Debug\Zee.exe
+c:\users\hp\documents\visual studio 2012\Projects\Zee\Zee\obj\Debug\Zee.pdb
